@@ -12,5 +12,16 @@ This JavaFX application includes:
 - **JDK 11 or later**
 - **JavaFX SDK 11 or later**
 
+## Resources
 
+[OpenAI's ChatGPT Documentation](https://openai.com/chatgpt)
+
+## Author
+
+Muaz Abdulhafiz
+
+
+## Date
+
+06/13/2024
 
